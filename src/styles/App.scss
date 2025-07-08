@@ -1,0 +1,9 @@
+@use './layout';
+@use './dashboard';
+@use './PaceGraphModal';
+
+body {
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background: #f5f5f5;
+}
